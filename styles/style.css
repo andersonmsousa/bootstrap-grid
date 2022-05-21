@@ -1,0 +1,32 @@
+* {
+    color: #717171;
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    background-color: #E5E5E5;
+}
+
+.navbar {
+    height: 12vh;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+p {
+    font-size: 13px;
+}
+
+a {
+    font-size: 16px;
+}
+
+#footer {
+    height: 15vh;
+}
+
+#logo {
+    height: 30px;
+}
